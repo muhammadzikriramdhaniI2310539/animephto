@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Kamu bisa tambah CSS global manual disini jika perlu, 
+   tapi biasanya kosong saja cukup */
+body {
+  margin: 0;
+  padding: 0;
+}
